@@ -1,4 +1,5 @@
 [![qrcode](https://img.shields.io/pypi/v/qrcode?label=qrcode)](https://pypi.org/project/qrcode/)
+[![pillow](https://img.shields.io/pypi/v/pillow?label=pillow)](https://pypi.org/project/pillow/)
 
 # QRCodeGenerator
 
